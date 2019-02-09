@@ -1,0 +1,7 @@
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe.config
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.exe
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\bin\Debug\klaseAndObjekti.pdb
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.csprojResolveAssemblyReference.cache
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.csproj.CoreCompileInputs.cache
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.exe
+C:\Users\Lovro Šverko\source\repos\klaseAndObjekti\klaseAndObjekti\obj\Debug\klaseAndObjekti.pdb
